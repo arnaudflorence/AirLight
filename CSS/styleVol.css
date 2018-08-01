@@ -1,0 +1,30 @@
+#main_wrapper{
+/*    top right bottom left */
+    margin: 2% 10% 2% 10%;  
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 8px 10px 40px black ;
+    
+}
+.card-body{
+    height: 300px;
+    overflow-y: scroll;
+    padding: 0% 1% 0% 1%;
+}
+thead{
+    font-size: 20px;    
+}
+#fond{
+    background-image: url(../IMG/fond4.jpg);
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 100%;
+    height: 110%;
+    display: block;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    
+
+
+}

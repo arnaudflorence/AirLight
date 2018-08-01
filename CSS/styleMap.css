@@ -1,0 +1,20 @@
+#map{
+    width : 80%;
+    height : 500px;
+    margin: 2% 10% 0% 10%;
+    border-radius: 10px;
+    box-shadow: 8px 10px 40px black ;
+}
+html, body{
+    
+    padding: 0;
+    margin: 0;
+}
+.my_polyline { 
+  stroke: #5731C7;
+  stroke-opacity : 0.7;
+  fill: none;
+  stroke-dasharray: 8,15,8; 
+  stroke-width: 4;  
+
+}
